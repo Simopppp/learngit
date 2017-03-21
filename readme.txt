@@ -6,3 +6,4 @@ Creating a new branch is quick and1 simple.
 Switched to a new branch 'dev'.
 Add something to test cooperation.
 Add something different.
+
